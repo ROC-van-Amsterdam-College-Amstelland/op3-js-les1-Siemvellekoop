@@ -40,11 +40,13 @@ function toggleRoodLicht(){
         document.getElementById("left-light-top").style.backgroundColor = "red";
         roodLichtStaatAan = true;
         //JOUW CODE HIER
+        verkeerMagRijdenStoplichtB(true)
     }
     else{
         document.getElementById("left-light-top").style.backgroundColor = "gray";
         roodLichtStaatAan = false;
         //JOUW CODE HIER
+        verkeerMagRijdenStoplichtB(false)
     }
 }
 
@@ -64,10 +66,12 @@ function toggleGroenLicht(){
         document.getElementById("left-light-bottom").style.backgroundColor = "green";
         groenLichtStaatAan = true;
         //JOUW CODE HIER
+        verkeerMagRijdenStoplichtB(false)
     }
     else{
         document.getElementById("left-light-bottom").style.backgroundColor = "gray";
         groenLichtStaatAan = false;
         //JOUW CODE HIER
+        verkeerMagRijdenStoplichtB(true)
     }
 }

@@ -17,10 +17,10 @@ function zetRoodLichtAan(){
 }
 
 function zetOranjeLichtAan(){
-     //JOUW CODE HIER
+    document.getElementById("light-middle").style.backgroundColor = "orange";
 }
 
 function zetGroenLichtAan(){
-    //JOUW CODE HIER
+    document.getElementById("light-bottom").style.backgroundColor = "green";
 
 }

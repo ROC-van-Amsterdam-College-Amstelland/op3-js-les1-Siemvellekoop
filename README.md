@@ -9,13 +9,13 @@ Commit tussentijds zoveel mogelijk maar zeker nadat je elke opdracht hebt afgero
 >LETOP: push ook soms even tussendoor: de code is pas ingeleverd op het moment dat je de code naar Github pushed.
 
 ### Leerdoelen
-1. [ ] Ik kan met Javascript een variabele toekennen aan de innerHTML van een HTML element.  
-2. [ ] Ik kan met Javascript de achtergrond kleur van een HTML element veranderen door een string toe te kennen aan de `style.backgroundColor` property van een HTML element.  
-3. [ ] Ik kan een vanuit een button in HTML een functie aanspreken in Javascript die de achtergrond kleur van een HTML element veranderd.  
-4. [ ] Ik kan een conditie gebruiken om te testen of een HTML element een bepaalde kleur heeft of niet.  
-5. [ ] Ik maak gebruik van een boolean variabele binnen een conditie.  
-6. [ ] Ik kan nog steeds met Javascript een variabele (of nu een string) toekennen aan de innerHTML van een HTML element.  
-7. [ ] Ik kan een functie aanroepen en een waarde meegeven als parameter
-8. [ ] Ik weet hoe ik snel een regel code kan kopieren en verplaatsen en hoe handig variabelen kunnen zijn.
+1. [x] Ik kan met Javascript een variabele toekennen aan de innerHTML van een HTML element.  
+2. [x] Ik kan met Javascript de achtergrond kleur van een HTML element veranderen door een string toe te kennen aan de `style.backgroundColor` property van een HTML element.  
+3. [x] Ik kan een vanuit een button in HTML een functie aanspreken in Javascript die de achtergrond kleur van een HTML element veranderd.  
+4. [x] Ik kan een conditie gebruiken om te testen of een HTML element een bepaalde kleur heeft of niet.  
+5. [x] Ik maak gebruik van een boolean variabele binnen een conditie.  
+6. [x] Ik kan nog steeds met Javascript een variabele (of nu een string) toekennen aan de innerHTML van een HTML element.  
+7. [x] Ik kan een functie aanroepen en een waarde meegeven als parameter
+8. [x] Ik weet hoe ik snel een regel code kan kopieren en verplaatsen en hoe handig variabelen kunnen zijn.
 9. [ ] Ik kan een waarde meegeven aan een functie en die binnen de functie gebruiken
 10. [ ] Ik heb iets met een timer gedaan in javascript.

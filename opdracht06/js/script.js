@@ -15,6 +15,9 @@ window.onload = function(){
     document.getElementById("right-light-middle").innerHTML = maybe;
     document.getElementById("right-light-bottom").innerHTML = go;
 
+    document.getElementById("left-stoplight-label").innerHTML = "A";
+    document.getElementById("right-stoplight-label").innerHTML = "B";
+
     //JOUW CODE HIER
 }
 
@@ -50,3 +53,5 @@ function toggleGroenLicht(){
         groenLichtStaatAan = false;
     }
 }
+
+
